@@ -34,6 +34,7 @@ h1 button {
   font-size: 14px;
   margin-top: 20px;
   padding: 10px 15px;
+  outline: none;
 }
 
 .btn-small {
@@ -42,5 +43,13 @@ h1 button {
 }
 
 .btn-ghost {
-  
+  border: 0;
+  background-color: transparent;
+}
+
+
+.clear{
+position: fixed;
+left: 30px;
+bottom: 30px;
 }
