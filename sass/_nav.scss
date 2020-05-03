@@ -1,17 +1,18 @@
-.navigation{
-display: flex;
-margin: 20px 0;
+.navigation {
+  display: flex;
+  margin: 20px 0;
 }
 
-.navigation .nav-button{
+.navigation .nav-button {
   border: none;
   background-color: transparent;
   cursor: pointer;
   font-size: 16px;
 }
 
-.navigation p{
+.navigation p {
   margin: 0 25px;
+  color: #666;
+  transform: translateY(-12px);
 
 }
-
